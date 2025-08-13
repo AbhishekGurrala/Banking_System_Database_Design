@@ -13,8 +13,8 @@ The project includes:
 
 ## 📂 Project Structure
 ```
-├── myAssignment1_Group8.pdf       # ER Diagram, Domain Description & Relational Schema
-├── CS22B049_A3_Group8.pdf         # SQL Queries with explanations
+├── ERD&Scheme.pdf       # ER Diagram, Domain Description & Relational Schema
+├── SQL_Queries.pdf         # SQL Queries with explanations
 ├── BUDDY BANK Database.sql        # MySQL database creation & sample data population
 ```
 
@@ -48,13 +48,13 @@ The project includes:
    ```sql
    SOURCE "BUDDY BANK Database.sql";
    ```
-3. **Execute queries** from `CS22B049_A3_Group8.pdf` in MySQL Workbench or CLI.
+3. **Execute queries** from `SQL_Queries.pdf` in MySQL Workbench or CLI.
 4. **Test your own queries** using the populated data.
 
 ---
 
 ## 📜 ER Diagram & Schema
-The **ER diagram** and **relational schema** can be found in `myAssignment1_Group8.pdf`.
+The **ER diagram** and **relational schema** can be found in `ERD&Scheme.pdf`.
 
 ---
 
