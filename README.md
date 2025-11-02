@@ -1,6 +1,6 @@
-# 🏦 Banking System Database – BUDDY BANK
+# Banking System Database – BUDDY BANK
 
-## 📌 Project Overview
+## Project Overview
 This project is a **relational database system** designed to manage core banking operations, built as part of CS3700 Assignments 1 & 3.  
 It models various entities such as **Branches, Customers, Accounts, Loans, Employees, Credit/Debit Cards, Passbooks, and Transactions**, supporting realistic banking functionalities and relationships.
 
@@ -11,7 +11,7 @@ The project includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ├── ERD&Scheme.pdf       # ER Diagram, Domain Description & Relational Schema
 ├── SQL_Queries.pdf         # SQL Queries with explanations
@@ -20,7 +20,7 @@ The project includes:
 
 ---
 
-## 🗄️ Database Features
+## Database Features
 - **Entities:** Branch, Employee, Customer, Account, Loan, DebitCard, Passbook, CreditCard, Transaction.
 - **Relationships:** One-to-many, many-to-many, and one-to-one links between banking entities.
 - **Constraints:** Primary keys, foreign keys, referential integrity.
@@ -28,7 +28,7 @@ The project includes:
 
 ---
 
-## 📊 Example SQL Queries Implemented
+## Example SQL Queries Implemented
 1. Average loan amount per branch.
 2. Day with highest number of transactions & total value.
 3. Top 5 customers by transaction count.
@@ -38,7 +38,7 @@ The project includes:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-link>
@@ -53,19 +53,15 @@ The project includes:
 
 ---
 
-## 📜 ER Diagram & Schema
+## ER Diagram & Schema
 The **ER diagram** and **relational schema** can be found in `ERD&Scheme.pdf`.
 
 ---
 
-## 🏆 Learning Outcomes
+## Learning Outcomes
 - Designing a **normalized relational database** from a real-world domain.
 - Implementing **referential integrity and constraints** in MySQL.
 - Writing **complex SQL queries** for analytics and reporting.
 - Understanding **banking workflows** through database modeling.
 
 ---
-
-## 👨‍💻 Author
-**Gurrala Abhishek**  
-CS22B049 – CS3700 Database Systems Project
